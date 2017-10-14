@@ -1,0 +1,76 @@
+// Text color
+.ui-text-white {
+	color: $white;
+}
+
+.ui-text-black,
+.ui-text-dark {
+	color: $black;
+}
+
+.ui-text-red {
+	color: $red;
+}
+
+.ui-text-gold,
+.ui-text-yellow {
+	color: $mainColor
+}
+
+.ui-text-blue {
+	color: $blue;
+}
+
+.ui-text-gray {
+	color: $gray;
+}
+
+// Text style
+
+.ui-text-light,
+.ui-text-100 {
+	font-weight: 100;
+}
+
+.ui-text-regular,
+.ui-text-400 {
+	font-weight: 400;
+}
+
+.ui-text-bold,
+.ui-text-800 {
+	font-weight: 400;
+}
+
+.ui-text-uppercase {
+	text-transform: uppercase;
+}
+
+//background colors
+
+.ui-bg-white,
+.ui-bg-light {
+	background-color: $white;
+}
+
+.ui-bg-black,
+.ui-bg-dark {
+	background-color: $black;
+}
+
+.ui-bg-red {
+	background-color: $red;
+}
+
+.ui-bg-gold,
+.ui-bg-yellow {
+	background-color: $gold;
+}
+
+.ui-bg-blue {
+	background-color: $blue;
+}
+
+.ui-bg-gray {
+	background-color: $gray;
+}

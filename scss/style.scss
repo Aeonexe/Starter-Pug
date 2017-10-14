@@ -1,0 +1,17 @@
+@import '_vars';
+@import '_reset';
+@import '_mobile';
+@import '_mixins';
+@import '_ui.scss';
+
+body {
+	font: {
+		family: $mainFont;
+	}
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font: {
+		family: $headerFont;
+	}
+}
